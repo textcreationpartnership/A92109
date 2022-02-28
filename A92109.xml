@@ -1,0 +1,291 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ruperts sumpter, and private cabinet rifled. And a discovery of a pack of his jewels by way of dialogue between, Mercurius Britannicus and Mercurius Aulicus.</title>
+            <author>Nedham, Marchamont, 1620-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92109</idno>
+            <idno type="STC">Wing R2311</idno>
+            <idno type="STC">Thomason E2_24</idno>
+            <idno type="EEBO-CITATION">99860338</idno>
+            <idno type="PROQUEST">99860338</idno>
+            <idno type="VID">130516</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92109)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 130516)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 1:E2[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ruperts sumpter, and private cabinet rifled. And a discovery of a pack of his jewels by way of dialogue between, Mercurius Britannicus and Mercurius Aulicus.</title>
+                  <author>Nedham, Marchamont, 1620-1678.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. MDC[XLIV][1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Mercurius Britannicus is the pseudonym of Marchamont Nedham. cf. BM.</note>
+                  <note>reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "July 20th".</note>
+                  <note>Imperfect: stained; cropped, with loss of most of imprint.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term>Political satire, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:130516:1"/>
+            <pb facs="tcp:130516:1" rendition="simple:additions"/>
+            <p>Ruperts Sumpter, AND Private Cabinet rifled.</p>
+            <p>AND A DISCOVERY OF <hi>A Pack of his JEWELS.</hi>
+            </p>
+            <p>By way of DIALOGUE Between, Mercurius <hi>Britaunicus</hi> and Mercurius <hi>Aulicus.</hi>
+            </p>
+            <figure>
+               <p>York</p>
+            </figure>
+            <p>London<g ref="char:punc">▪</g> Printed by <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:130516:2"/>
+            <sp>
+               <speaker>Britanicus.</speaker>
+               <p>WHither ſo faſt <hi>Aulicus</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Aulicus,</speaker>
+               <p>I beſhrew you for following me ſo cloſe Maſter <hi>Britanicus,</hi> you have tired me out of a Lordſhip, a li<g ref="char:EOLhyphen"/>ving, a Clerkeſhip, a Knighthood, or ſomething of note, that I ſhould have had for my good ſervice had not you been, and broke the heart of me, and the neck of my deſignes.</p>
+            </sp>
+            <sp>
+               <speaker>Brit.</speaker>
+               <p>What news from <hi>Rupert, Aulicus?</hi> he hath lately had a great fight I heare.</p>
+            </sp>
+            <sp>
+               <speaker>Aul.</speaker>
+               <p>Yea, marry, <hi>Brit</hi> that doth a little revive me, for hee hath raiſed the Siege at Yorke, taken Generall <hi>Leſley,</hi> beaten the two other Generalls, wounded Sir <hi>Thomas Fairfax,</hi> and totally routed them, and this is true I will take my oath of it, for I have the Kings hand for it, and he hath Prince <hi>Ruperts</hi> hand for it, and ſo have all the Embaſſadours in England, and he that brought the news firſt was made a Knight for his labour.</p>
+            </sp>
+            <sp>
+               <speaker>Brit.</speaker>
+               <p>In this manner you get all your victories, and your Deplorations and Proclamations, and thus you make all your Proteſtations in print, well ſo we get them, we will give you leave to have the Kings hand for them. But what is the rea<g ref="char:EOLhyphen"/>ſon you travel in your ſhirt, <hi>Aulicus?</hi> are you ſo hot?</p>
+            </sp>
+            <sp>
+               <speaker>Aul.</speaker>
+               <p>To tell you the truth I was even now with a holy Prieſt in his houſe, that was troubled with an Ague, and hee put off his Waſtcote and ran away, and I ran ſo faſt after him that I was quite out of breath, and ſo extreame hot, that I was forced to put off my doublet to coole my ſelfe.</p>
+            </sp>
+            <sp>
+               <speaker>Brit.</speaker>
+               <p>But I could tell you a better ſtory of <hi>Rupert,</hi> hee was once a prety young man, and this Kingdome did love him well, and gave him his maintenance, but the Emperour got him, and gave him good quarter, and popery and the young man came over, and lit into ill company at Oxford, amongſt Prieſts and Prelates, Jeſuites and Biſhops, and bad Courtiers, and there he hath lived with his good Vncle, ſpoyling and robbing, and killing and plundering, and hopes to be King
+<pb facs="tcp:130516:2"/>
+himſelfe ſhortly, if his Majeſty looke not to him, for hee doth all he can to get the love of the Cavaliers, a dangerous de<g ref="char:EOLhyphen"/>ſigne. Now, what a horrible thing will this be, to ſet up ſuch a bloudie Prince, but the reaſon is this, The Papiſts and grand Malignants feare, that the Scots and wee together ſhall get our King, and have him good again, and then they are undone. But I dare ſay no more, I muſt be ſecret, only this. And it is thought if he cannot be King, he intends at leaſt to undoe the Kingdome, that his Majeſty and himſelfe ſhall bee both alike, the King no better then his Nephew. Is not this a malicious Prince thinke you?</p>
+            </sp>
+            <sp>
+               <speaker>Aul.</speaker>
+               <p>You diſhonour that noble Prince, whoſe reſolution is ſo valiant, that all the Roundheads in the Kingdome ſhall be ſtain, rather then his highnes will let his Vncle be adviſed by the Lords and Commons at Weſtminſter.</p>
+            </sp>
+            <sp>
+               <speaker>Brit.</speaker>
+               <p>For prince <hi>Ruperts</hi> highneſſe, we heare of his highnes, and were it not for the Parliament hee would ſhortly bee too high for his Majeſty<g ref="char:punc">▪</g> Is it not a ſhame for the Engliſh Nobili<g ref="char:EOLhyphen"/>tie to let him alone in his deſigne, that would grow higher then the King himſelfe, if not higher by the head, yet by the Crowne. Are theſe the good Subjects that ſet up a wanton young Prince, to court his Majeſties Armies to himſelfe, to fight for the King ſo long, till nothing but his Throne be a ſeat commenſurate to his perſon?</p>
+            </sp>
+            <sp>
+               <speaker>Aul.</speaker>
+               <p>Can you blame the Prince, for doing what hee doth when he ſees his uncle cannot ſubdue the Kingdom by force of Armes? why ſhould not he maſſacre the Rebels that abuſe ſo good a King, that hath done and ſuffered more, then all his predeceſſors ſince the conqueſt?</p>
+            </sp>
+            <sp>
+               <speaker>Brit.</speaker>
+               <p>We acknowledge it with ſad hearts and hands, hee hath done more then any of his predeceſſors, what doe you meane <hi>Aulicus,</hi> to goe about to vindicate <hi>Rupert,</hi> who hath ſet the King againſt his grand Councell more then ever his predeceſſors have done, proclaimed his Parliament Traitors, ſuffered them to be called pretended houſes more then ever
+<pb facs="tcp:130516:3"/>
+his predeceſſors hath not <hi>Rupert</hi> protected delinquents <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Law and Juſtice? ſet up a ſtandard for Papiſts and Forreig<g ref="char:EOLhyphen"/>ners, tollerated Prieſts end Jeſuites in his campe, betrayed the Kingdome of Ireland to the mercie of bloudy Rebels by not drawing the Engliſh Forces thence. <hi>Aulicus</hi> this is your mea<g ref="char:EOLhyphen"/>ning, you ſay true <hi>Rupert</hi> hath fomented her Majeſty to con<g ref="char:EOLhyphen"/>tinue this war, to divide the King from his people: to pawne his jewels, and to provide him armes and ammunition to de<g ref="char:EOLhyphen"/>ſtroy the Kingdome, and to bring his Majeſty into theſe ſtraights whilſt himſelfe doth kill fire and plunder, and ſpill whole Rivers of bloud, till the Thames and the Severne, and Trent and Humber, and Owſe, flow down in crimſon ſtreams? That the Biſhops may have way to bring in Popery and Li<g ref="char:EOLhyphen"/>bertiniſme, the Prieſts preach Arminianiſme, evill Councel<g ref="char:EOLhyphen"/>lours bring in Tyranny, and a civill war eats up the bowels of the Kingdome. And <hi>Iermine</hi> and <hi>Digby, Bristol, Cottington, Rateliff, Davis, Dupper, Goring,</hi> and <hi>Nicholas,</hi> may be the only Councell to adviſe with the King againſt the Parliament, more then ever was knowne before, and ſuffer thee <hi>Aulicus</hi> to raile, jeare, blaſpheme, abuſe miſcall the Parliament with<g ref="char:EOLhyphen"/>out contradiction, and therefore I will follow thee and never leave till all thy villany be diſcovered, and I hope to ſee an end of thee and thy baſeneſſe both together.</p>
+            </sp>
+            <sp>
+               <speaker>Aul.</speaker>
+               <p>You are very hot upon it <hi>Britnnicus,</hi> but for all your curſes and imprications I hope to ſee all the remnant at Weſt<g ref="char:EOLhyphen"/>minſter that ſit voting whilſt the Kingdome is involved in bloud, and all the Roundheads and Citizens on your ſide one day to be cut off, man, woman and child, for refuſing thus to obey your King.</p>
+            </sp>
+            <sp>
+               <speaker>Brit.</speaker>
+               <p>I pray thee tell me <hi>Aulicus,</hi> where doth the rem<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ant remain, almoſt 300 ſit at Weſtminſter, and at Oxford but a matter of a hundred withall the <hi>Strangeways;</hi> and all the <hi>Jo<g ref="char:EOLhyphen"/>ſephs,</hi> and the <hi>Iames,</hi> unleſſe you reckon thoſe in the Dutches of Buckinghams cloſet; and whether is it not better to ſit vo<g ref="char:EOLhyphen"/>ting at Weſtminſter, then to ſit doting in a beane field, as <hi>Ru<g ref="char:EOLhyphen"/>pert</hi>
+                  <pb facs="tcp:130516:3"/>
+did under the bloſumes when hee was vouted lately at Yorke, who hath been all this while not only involving but diſſolving the Kingdome, diſ-parliamenting that great Councell. It is true the Kingdome is in bloud, but who ope<g ref="char:EOLhyphen"/>ned the veines of the Proteſtants, and let out the bloud of our brethren of Scotland, and made the ſtreames of Tine run crimſon, It is true, our Parliament fits and votes, and <hi>Rupert</hi> involves it in bloud, and our Parliament is the only pole and center the Kingdome reſts on, their reſidence and combining fixes the State and Nation and keeps it from confuſion. This is that which hee would ſlay: for hee knows the being of a Parliament, the eſſence of ſuch a Senate ſhews vigour and ſtrength, and activity in all the parts, and all the powers, and engines, and machinations of the Enemy is to diſarme, to murder, to maſſacre, to unprivilegde this Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Aul.</speaker>
+               <p>The Prince is wiſe and valiant, and thoſe that are about him are ſo tender of his honour, that they will not leave his Highneſſe, whilſt they have one drop of bloud in their bodies, is this great work that they are about to ſubdue, and utterly root out you and all the faction, that will not throw their necks under the feet of his Highneſſe, in obedi<g ref="char:EOLhyphen"/>ence to King <hi>Charles.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Brit.</speaker>
+               <p>Indeed you may call <hi>Rupert</hi> his Highneſſe, for hee hopes to be higher then his Majeſtie, if all be true I hear from thence, <hi>Rupert</hi> is fitting his head for a Crowne, and hath a <hi>Montero:</hi> which he means to make uſe of under it; if his head be not too little for it: as it muſt needs be indeed. But what ſhall that Kingdom do where he gets the Crown? for he will preſently ſend it after the Jewels. But before the Crowne be ſet upon his head, I would firſt have his head at a reaſonable diſtance from the wilder part of his bodie.</p>
+            </sp>
+            <sp>
+               <speaker>Aul.</speaker>
+               <p>You would have him beheaded then, would you, tru<g ref="char:EOLhyphen"/>ly that were a thouſand pities, for if hee were gone, I thinke we ſhould never have ſuch a Champion againe to follow the buſineſſe home; hee ſubdues all where hee comes, and ſpares
+<pb facs="tcp:130516:4"/>
+neither man, woman, nor child. The laſt Sunday I was m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ditating of his Majeſties Coronation, and then you would no think how it troubled mee to conſider of the Treaſons, and Covenants, and cloſe Committees, and looking in my Ca<g ref="char:EOLhyphen"/>lender, I found the noble Prince <hi>Rupert</hi> recorded the very next day after his Majeſties Coronation in M. <hi>N<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>worths</hi> Al<g ref="char:EOLhyphen"/>manack, this was a providence?</p>
+            </sp>
+            <sp>
+               <speaker>Brit.</speaker>
+               <p>This is a malignant Oxford papiſticall trick, to put <hi>Rupert</hi> ſo cloſe to the Coronation, how dare you thus goe a<g ref="char:EOLhyphen"/>bout to inaugurate the wild Prince, I warrant thou wouldeſt be the firſt that would worſhip him if hee ſhould come to the Crown, and he bad fair for it, before his routing at York, the ſoulderie began to admire him, and hee rid in ſtate upon the trappings of his ſucceſſe, and one ſaid, It is pitie your High<g ref="char:EOLhyphen"/>neſſe is but a Commander of horſe you are worthie to com<g ref="char:EOLhyphen"/>mand a Kingdome, an other whiſpers him, that the peoples eyes are upon him, and the yongman rid farre higher in his ſaddle then hee doth now: Would it not have been a prettie feat to have ſeen him conquer an inheritance for himſelfe in the name of his Majeſtie: but God be bleſſed, hee is now cut ſhort<g ref="char:punc">▪</g> and we hope ſhortly to ſee the hot ſpirited yongſter ſee all his hopes quite fruſtrate.</p>
+            </sp>
+            <sp>
+               <speaker>Aul.</speaker>
+               <p>Oh if you had ſeene how hee was beloved in Lanca<g ref="char:EOLhyphen"/>ſhire; you would not offer to ſpeake ſo, when hee was there with his Armie before the fight? hee did much increaſe it, with the Catholikes of thoſe parts: hee ſet on the Commiſſi<g ref="char:EOLhyphen"/>on of Array with ſucceſſe, and the Earle of Derbies Depen<g ref="char:EOLhyphen"/>dants reſorted to him, and Colonell <hi>Goring</hi> hath beene ſo a<g ref="char:EOLhyphen"/>ctive ſince his libertie; that hee never took reſt ſince his lodg<g ref="char:EOLhyphen"/>ing in the Tower: and with a great Armie the Prince mar<g ref="char:EOLhyphen"/>ched like the ſwift clouds, to raiſe the ſiege at York.</p>
+            </sp>
+            <sp>
+               <speaker>Brit.</speaker>
+               <p>God be thanked, that Cloud did much obſcure the North, but it is now diſſipated, and God hath given his ſer<g ref="char:EOLhyphen"/>vants, a glorious victorie over the Enemies of their Religion and libertie. The plundering Prince with his Iriſh Rebels
+<pb facs="tcp:130516:4"/>
+papiſts, and other deſperate Ruſſians were totally routed, and defeated, 3000 of them being <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aine on the place, and 1500 taken with 3 peece of Ord<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ance, 10000 Armes with all their Ammunition, bag and baggage, 100 and odde Colours. And whilſt our ſouldiers were in the heat of execution, Prince <hi>Ru<g ref="char:EOLhyphen"/>pert</hi> was much beholding to the gallantrie of his Horſe who in the concluſion ſurpaſſed all the reſt of his followers in ſwift<g ref="char:EOLunhyphen"/>neſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Aul.</speaker>
+               <p>Indeed the Prince was ſent to relieve York, but hee hindred them, and fought with the Roundheads againſt the Councell and advice of the Commanders.</p>
+            </sp>
+            <sp>
+               <speaker>Brit.</speaker>
+               <p>It pleaſed God it ſhould be ſo, that ſo by this means hee might be routed; but it hath ſo diſpleaſed the Earle of Newcaſtle, that hath left his Commiſſion behind him, and it is brought up to the Parliament, but hee is fled after his plunder, and ſo I warrant you will <hi>Rupert</hi> after him ſhortly.</p>
+            </sp>
+            <sp>
+               <speaker>Aul.</speaker>
+               <p>No ſuch matter, The Prince hath rallied his m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n again, and recruted himſelfe, and is foure or 5000 <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rong a<g ref="char:EOLhyphen"/>gain; and hopes to recrute his honour too. The papiſts have not quite taken off their hopes from him; it is hoped hee will doe well enough with his horſe to rang up and down till the popiſh Iriſh good ſubjects come over to joine with him for the defence of the Proteſtant Religion, and the liberty of the Subject.</p>
+            </sp>
+            <sp>
+               <speaker>Brit.</speaker>
+               <p>We believe the Iriſh are preparing to come, becauſe we heare <hi>Rupert</hi> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>s to meet the<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, but ſure it was not the Pidlers, but our Cannons at the Leaguer, that made him dance in the Bean field, till he was ſo fain to lie downe and ſing—the lamentation of a totall routing.</p>
+            </sp>
+            <sp>
+               <speaker>Aul.</speaker>
+               <p>You will talke of great matters: as you did of the ta<g ref="char:EOLhyphen"/>king of Yorke, Newcaſtle, Oxford: but you ſee wee keepe them ſtill, and vvere very neer the taking of Hull, which we hoped vvould have been delivered up to us.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:130516:5"/>
+               <speaker>Brit.</speaker>
+               <p>Indeed <hi>Aulicus</hi> this is that which hath done us <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> miſchief. You have had them amongſt us <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ho h<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> acted for you: We found in <hi>Ruperts</hi> Sumpter ſuch <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> have diſcovered all your tricks, and vvee ſee now how you come to cheat us of Towns and Caſtles formerly, and hovv you come by all your intelligence of our proceedings. There vvee found C. R. which certified hovv vvilling and ready Sir <hi>Iohn Hotham</hi> vvas to deliver up Hull to the Marqueſſe of Nevvcaſtle. There vve found a diſcovery of the Lord <hi>Roch<g ref="char:EOLhyphen"/>fords</hi> intelligence given to the Kings forces, for vvhich the King had ſigned his Pardon. You may vvell preſume upon Victories, and go on in your plots and contrivements againſt us: vvhen you can have intelligence from a Peere out of our owne houſe of Lords. But novv vve ſhall look to you here<g ref="char:EOLhyphen"/>after, and labour to prevent the ſame as well as vve can.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Publiſhed according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
